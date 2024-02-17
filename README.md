@@ -36,7 +36,7 @@
 
 <details>
   <summary>
-    <font size="+1">🔎 My coding journey more in detail...</font>
+    <font size="+2">🔎 My coding journey more in detail...</font>
   </summary>
   <p>
     
