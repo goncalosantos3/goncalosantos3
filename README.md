@@ -39,11 +39,8 @@
     <font size="+2">🔎 My coding journey more in detail...</font>
   </summary>
   <p>
-    
-    Starting from when I didn't know anything about coding, in High school, before College, I had 0 idea on how computers worked and how programs like video games 🤓 were built and how they functioned. At that time, I literraly thought that programming was magic 🪄.
-
+    Starting from when I didn't know anything about coding, in High school, before College, I had 0 idea on how computers worked and how programs like video games 🤓 were built and how they functioned. At that time, I literraly thought that programming was magic 🪄. 
     To be honest, when I entered to colleged I kinda got into Software Engeneering/Development by chance. Fortunately, in the unfolding of my course I really found a passion for what I was doing. In the present day, I like everything related with Software Engeneering from Back-end and Front-end to DevOps, but the truth is that I hold a special place for AI and Back-end related software 😄.
-
     Now I am at a phase of my learning that I want to gain some professional experience and the market. I am looking for opportunities to join a summer internship. So, if you can make that happen, please contact me 📞. 
   </p>
 </details>
